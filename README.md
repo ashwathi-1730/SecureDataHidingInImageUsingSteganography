@@ -28,7 +28,7 @@ pip install opencv-python
 
 ### Clone the Repository
 
-git clone https://github.com/your-username/image-steganography.git
+git clone https://github.com/ashwathi-1730/SecureDataHidingInImageUsingSteganography.git
 cd image-steganography
 
 ## Usage
